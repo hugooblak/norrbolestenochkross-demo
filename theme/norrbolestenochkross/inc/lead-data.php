@@ -18,7 +18,6 @@ return array(
 		array( 'Bra personal dom har bra tjänster', 'Ragnar Tiilikainenl/DJ-XBIRDS', 'för 5 år sedan' ),
 		array( 'Ett mycket bra entreprenör', 'Johnny Backlund', 'Redigerat för 8 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg' ),
+	'bild_hero'      => 'foto-3.jpg',
 	'ar_riktig'      => true,
 );
