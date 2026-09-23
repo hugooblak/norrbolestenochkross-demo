@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Norrböle Sten & Kross AB',
+	'bransch'        => 'Entreprenör',
 	'telefon'        => '0660-166 33',
 	'telefon_tel'    => '+4666016633',
 	'ort'            => 'Örnsköldsvik',
